@@ -65,3 +65,16 @@ void Exercise1_5()
     printf("==========\n");
     printf("\n");
 }
+
+void Exercise1_7()
+{
+    printf("Exercise 1-6 & 7: Verify that the expression getchar() != EOF is 0 or 1.\n");
+    
+    int c;
+    while(c = getchar() != EOF)
+    {
+        printf("%d\n", c);
+        printf("%d - at EOF\n", c);
+    }
+    
+}

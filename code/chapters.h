@@ -1,4 +1,5 @@
 /* date = March 15th 2021 3:38 pm */
+#include "chapter01.c"
 
 #ifndef CHAPTERS_H
 #define CHAPTERS_H

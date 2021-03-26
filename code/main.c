@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include "chapters.h"
-#include "chapter01.c"
 
 int main()
 {
